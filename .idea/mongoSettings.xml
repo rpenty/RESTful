@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MongoConfiguration">
+    <option name="serverConfigurations">
+      <list>
+        <ServerConfiguration>
+          <option name="label" value="RESTful Test" />
+          <option name="password" value="fuckyou" />
+          <option name="serverUrls">
+            <list>
+              <option value="ds053160.mongolab.com:53160" />
+            </list>
+          </option>
+          <option name="userDatabase" value="bossablestarter" />
+          <option name="userDatabaseAsMySingleDatabase" value="true" />
+          <option name="username" value="rpenty" />
+        </ServerConfiguration>
+      </list>
+    </option>
+  </component>
+</project>
